@@ -1,6 +1,7 @@
 package livraria.model;
 
-public class Brinquedos {
+public class Brinquedos extends Produto {
 
     private String tipo;
+
 }

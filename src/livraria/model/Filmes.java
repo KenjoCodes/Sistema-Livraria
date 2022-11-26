@@ -1,7 +1,10 @@
 package livraria.model;
 
-public class Filmes {
-    
-    estúdio, diretores, gêneros e produtores
+public class Filmes extends Produto {
+
+    private String estudio;
+    private String diretores;
+    private String generos;
+    private String produtores;
 
 }
